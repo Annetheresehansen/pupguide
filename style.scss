@@ -1,0 +1,11 @@
+@use 'partial';
+
+/*Nestin*/
+
+main {
+    section{
+        div a{
+            color: partial.$primary;
+        }
+    }
+}

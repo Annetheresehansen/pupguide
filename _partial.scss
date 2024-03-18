@@ -1,0 +1,8 @@
+/*Variabler*/
+$primary: #fff;
+
+/*Mixins*/
+@mixin flex{
+    display: flex;
+    justify-content: center;
+}
